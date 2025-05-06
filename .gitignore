@@ -104,3 +104,6 @@ _*
 /native/**/*.make
 /native/**/Makefile
 /native/**/*.mgfxo.h
+
+# Protect against accidentally committing sensitive stuff
+Switch
